@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="80e4cb1a-6749-4313-a84e-0549fe3aa174" name="pi@121.36.243.141:60003" url="http:///">
+        <fileTransfer rootFolder="/home/pi/tanrui" accessType="SFTP" host="121.36.243.141" port="60003" sshConfigId="920c7a8e-96aa-4b98-922d-4fea5dbd927e" sshConfig="pi@121.36.243.141:60003 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
